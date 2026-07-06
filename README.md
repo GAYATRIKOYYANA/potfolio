@@ -1,9 +1,10 @@
-# potfolio
 # 🌟 Gayatri Koyyana - Portfolio
 
 Welcome to my personal portfolio repository! 🚀
 
 This portfolio showcases my skills, projects, certifications, and experience as a **Full Stack Developer** with a strong interest in **Python, React, AI, and Machine Learning**.
+
+
 
 ---
 
@@ -81,9 +82,11 @@ I enjoy learning new technologies and solving real-world problems through softwa
 
 ## 🏆 Certifications
 
+- Microsoft Azure Administration
 - Microsoft Generative AI Engineering
 - AI Tools Workshop
 - Full Stack Development Internship
+- Python Programming
 
 ---
 
