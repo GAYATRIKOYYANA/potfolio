@@ -4,8 +4,13 @@ Welcome to my personal portfolio repository! 🚀
 
 This portfolio showcases my skills, projects, certifications, and experience as a **Full Stack Developer** with a strong interest in **Python, React, AI, and Machine Learning**.
 
-
-
+![images alt](https://github.com/GAYATRIKOYYANA/potfolio/blob/a982a23dd1dfd1784edb9a5bd5b2ef3d12b427a7/Screenshot%202026-07-04%20123000.png)
+![images alt](https://github.com/GAYATRIKOYYANA/potfolio/blob/a982a23dd1dfd1784edb9a5bd5b2ef3d12b427a7/Screenshot%202026-07-06%20122629.png)
+![images alt](https://github.com/GAYATRIKOYYANA/potfolio/blob/a982a23dd1dfd1784edb9a5bd5b2ef3d12b427a7/Screenshot%202026-07-06%20122640.png)
+![images alt](https://github.com/GAYATRIKOYYANA/potfolio/blob/a982a23dd1dfd1784edb9a5bd5b2ef3d12b427a7/Screenshot%202026-07-06%20122647.png)
+![images alt](https://github.com/GAYATRIKOYYANA/potfolio/blob/a982a23dd1dfd1784edb9a5bd5b2ef3d12b427a7/Screenshot%202026-07-06%20122658.png)
+![images alt](https://github.com/GAYATRIKOYYANA/potfolio/blob/a982a23dd1dfd1784edb9a5bd5b2ef3d12b427a7/Screenshot%202026-07-06%20122706.png)
+![images alt](https://github.com/GAYATRIKOYYANA/potfolio/blob/a982a23dd1dfd1784edb9a5bd5b2ef3d12b427a7/Screenshot%202026-07-06%20122712.png)
 ---
 
 ## 👩‍💻 About Me
